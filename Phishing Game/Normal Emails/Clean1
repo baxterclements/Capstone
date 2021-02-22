@@ -7,5 +7,5 @@
 	"Attachments": "",
 	"IsPhish": "False", 
 	"Reason": "This kind of email occurs quite often when your account gets logged into from somewhere new. /n As long as this email doesnt ask for your credentials it is simply alerting you of a potential hack!"
-	}
-	
+}
+]	
