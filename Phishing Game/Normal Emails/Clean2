@@ -1,0 +1,11 @@
+[
+{
+	"Difficulty": "",
+	"Sender": "Events <EventCoordinator@ExampleElementary.org>",
+	"Subject": "Field Day!",
+	"Contents": "As you all know field day is coming up and we wanted to reach out to all of our students and their parents to make them aware of recent changes to how we will be running it this year. We will be running most events inside this year due to rain! Below we have attached a PDF outlining exactly when each event will be taking place. We hope to see you there!",
+	"Attachments": "FieldDaySchedule.PDF",
+	"IsPhish": "False", 
+	"Reason": "Everything checks out here. Of course it is good to stay vigalant but sometimes emails are not phishing!"
+}
+]	
