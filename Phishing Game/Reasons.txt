@@ -1,0 +1,58 @@
+Reasons email is bad
+~~~~~~~~~
+0 (Sender is outside of the organization and impersonating someone else):
+Hints:
+
+"Check other information in the email aside from the contents itself"
+
+"Attachments and contents are not the only things in an email"
+
+"Are you sure this person is who they say they are?"
+
+"Does this email seem to lack context for your organization?"
+
+~~~~~~~~~
+1 (Malicious attachments)
+Hints:
+
+"Subject and contents is not the only important thing in an email"
+
+"Does the type of file sent make sense in this context?"
+
+"Remember to check file types!"
+
+
+~~~~~~~~~~
+2 (Generally suspicious)
+Hints:
+
+"Does this person have any reason to contact you?"
+
+"Why would a stranger have any reason to reach out to you like this"
+
+"Is what this person is saying logical?"
+
+"Is this person trustworthy? Are you sure they are who they say they are?"
+
+"Does this email seem poorly written or lackin grammar?"
+
+~~~~~~~~
+3 (Spoofed links)
+Hints:
+
+"Make sure to verify the contents of your email"
+
+"Does this website look legitimate"
+
+
+
+
+
+
+
+
+
+
+
+
+
