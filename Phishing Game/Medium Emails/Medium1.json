@@ -1,0 +1,11 @@
+[
+{
+	"Difficulty": "M",
+	"Sender": "IT Office <security@IT.com>",
+	"Subject": "Data breach",
+	"Contents": "Dear valued customer, As part of our security breach outreach we are notifying you of a recent data breach that may effect your operations /n in order to determine if you have been breached please login to any account you belive has been hacked at http://didigetbreach.ru /n Thank you for choosing IT! Sincerly IT Office",
+	"Attachments": "",
+	"IsPhish": "True", 
+	"Reason": "3"
+}
+]	

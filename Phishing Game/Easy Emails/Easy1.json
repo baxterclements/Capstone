@@ -1,0 +1,11 @@
+[
+{
+	"Difficulty": "E",
+	"Sender": "The President <boss@konkast.com>",
+	"Subject": "HELLO",
+	"Contents": "Are you available at the office? Will need you to run a task ASAP. /n Regards",
+	"Attachments": "",
+	"IsPhish": "True", 
+	"Reason": "0"
+}	
+]

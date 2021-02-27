@@ -1,0 +1,11 @@
+[
+{
+	"Difficulty": "",
+	"Sender": "Gooble <gooble.com>"
+	"Subject": "Security Alert",
+	"Contents": "Did you just sign in? Someone signed into your account in Timbuktu. /n If this is you no more action is needed. /n Otherwise you should change your password ASAP! /n Regards Gooble",
+	"Attachments": "",
+	"IsPhish": "False", 
+	"Reason": "This kind of email occurs quite often when your account gets logged into from somewhere new. /n As long as this email doesnt ask for your credentials it is simply alerting you of a potential hack!"
+}
+]	
