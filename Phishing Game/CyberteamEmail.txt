@@ -1,0 +1,3 @@
+    "Sender": "Cyber@{SCHOOLHERE}.com",
+	"Subject": "Password reset",
+	"Contents": "Hello {NAMEHERE}, Before you open your email we wanted to make you aware of the fact that there has recently been alot of phishing emails sent to our students. As such we want to remind you to stay vigalant when checking your email for the next few weeks. Remember to make sure that the emails you receive are from people inside our organization if they relate to it. Also remember to only open attachments that you really need! If you need any help we have added a chat box at on the bottom left of your screen. If you have trouble determining if an email is phishing or not do not be afraid to ask. We want to help!",
