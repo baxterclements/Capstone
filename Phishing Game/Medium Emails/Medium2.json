@@ -1,0 +1,10 @@
+[
+{
+	"Difficulty": "E",
+	"Sender": "USGovernment@bmail.com",
+	"Subject": "Urgen Message",
+	"Contents": "Hello this is the FBI, We wanted to alert you that you ePhone has been hacked. This is very unfortunate but we at the FBI have made a fix. Plese download this file to your computer and run it with your phone plugged in.",
+	"Attachments": "ePhonevirusremover.exe",
+	"IsPhish": "True", 
+	"Reason": "2, 0, 1"
+}
